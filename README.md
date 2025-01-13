@@ -4,6 +4,7 @@ Classic Games Collection 🎮
 This repository contains a collection of three classic games developed in different programming paradigms and languages. Each game showcases unique programming concepts, ranging from fundamental programming to object-oriented design and low-level assembly language.
 
 📚 Games Included:
+
 1️⃣ Tetris (C++ with PF Concepts)
 A classic block-stacking game built using Programming Fundamentals.
 Features smooth block movement, line-clearing mechanics, and score tracking.
