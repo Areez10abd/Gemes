@@ -7,9 +7,11 @@ This repository contains a collection of three classic games developed in differ
 1️⃣ Tetris (C++ with PF Concepts)
 A classic block-stacking game built using Programming Fundamentals.
 Features smooth block movement, line-clearing mechanics, and score tracking.
+
 2️⃣ Space Shooter (C++ with OOP)
 A 2D arcade-style space battle game developed with Object-Oriented Programming principles.
 Includes spaceship movement, enemy waves, shooting mechanics, and a dynamic scoring system.
+
 3️⃣ Pacman (Assembly Language)
 The iconic maze game recreated in Assembly Language.
 Features maze navigation, ghost AI, pellet collection, and score tracking.
