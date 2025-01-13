@@ -20,13 +20,7 @@ Features maze navigation, ghost AI, pellet collection, and score tracking.
 Tetris: C++ (Programming Fundamentals)
 Space Shooter: C++ (Object-Oriented Programming)
 Pacman: Assembly Language (x86 architecture)
-🚀 How to Run:
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/classic-games-collection.git  
-Navigate to the specific game directory.
-Follow the provided instructions in each folder to compile and run the game.
+
 🔑 Key Concepts:
 Tetris: Core programming concepts like loops, arrays, and conditionals.
 Space Shooter: OOP principles such as inheritance, polymorphism, and encapsulation.
